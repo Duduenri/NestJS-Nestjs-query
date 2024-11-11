@@ -34,7 +34,7 @@
 
 ## Executando o projeto 
 ### Ajustando o .env
-  Renomeie ``.env.example`` para ``.env`` e configure como desejar.
+  Renomeie ``.env.saiForGitIgnore`` para ``.env`` e configure como desejar.
   
 ### Executando a postgres
 
